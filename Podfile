@@ -8,5 +8,6 @@ target 'InstaClone' do
   # Pods for InstaClone
 	pod "Parse"
 	pod "AlamofireImage"
+	pod "MessageInputBar"
 
 end
